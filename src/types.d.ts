@@ -1,6 +1,6 @@
 /* eslint-disable @typescript-eslint/consistent-type-definitions */
 export type Cell = {
-  id: number | string
+  id: number
   isActive: boolean
 }
 
